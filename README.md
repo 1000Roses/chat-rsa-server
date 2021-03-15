@@ -1,2 +1,6 @@
 # chat-rsa-server
-server nodejs
+
+# Install
+## npm install
+## node index.js to run server nodejs
+
