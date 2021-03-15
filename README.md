@@ -1,6 +1,7 @@
 # chat-rsa-server
+## Project setup
+```
+npm install
+npm run serve
 
-# Install
-## npm install
-## node index.js to run server nodejs
-
+```
